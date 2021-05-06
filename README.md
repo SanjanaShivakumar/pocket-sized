@@ -2,6 +2,7 @@
 
 An application inspired by "InShorts" App.
 
+[Link](https://drive.google.com/file/d/1tKqOoFVIX5LgdyhjcYJDw2yP17Brb9M_/view) to project demo.
 
 ## Installation and Setup Instructions
 
