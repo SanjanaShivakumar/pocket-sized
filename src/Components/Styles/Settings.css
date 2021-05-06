@@ -1,0 +1,31 @@
+.containerSettings{
+    height: 100vh;
+}
+
+.listItems{
+    text-align: left;
+    padding: 30px !important;
+    background-color: #222629 !important;
+    color: white;
+    font-size: 20px;
+}
+
+.backArrow{    
+    color: #86C232;
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+.signOutDiv{
+    margin-top: 100px;
+}
+
+.signOutLink{
+    color: white;
+    font-size: 30px;
+}
+
+.signOutLink:hover{
+    font-weight: bold;
+    color: #86C232 ;
+}

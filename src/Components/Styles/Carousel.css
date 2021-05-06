@@ -1,0 +1,72 @@
+.mainContainer{
+    text-align: center;
+    padding-bottom: 50px;
+  }
+  
+  
+  .brandName {
+    text-align: left;
+    margin-left: 20px;
+  }
+  .pocketSized{
+    font-size: 35px;
+    font-weight: bold;
+    color: #86C232;
+  }
+
+  .mobileIcon{
+    font-size: 35px;
+    margin-left: 10px;
+    color: #86C232;
+  }
+  
+  .tagline{
+    font-size: 10;
+  }
+  
+  .imagePosters{
+    width: 100%;
+  }
+  
+  
+  /* Swiper class */
+  
+  .mySwiper{
+    margin-top: 30px;
+  }
+
+  .swiper-container {
+    width: 100%;
+    height: 100%;
+  }
+  
+.containerTitle{
+    padding-top: 20px;
+    font-size: 20px;
+    letter-spacing: 2px;
+    color: white;
+    font-weight: medium;
+}
+
+  .textDesc{
+    position: absolute;
+    bottom: 0;
+    padding-left: 10px;
+    backdrop-filter: blur(11px);
+  }
+  .textContent{
+    height: fit-content;
+    border: 1px solid white;
+    border-radius: 20px;
+    text-align: left;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .swiper-slide img {
+    border-radius: 20px;
+    width: 100%;
+    height: 60vh;
+    object-fit: cover;
+  }
+  

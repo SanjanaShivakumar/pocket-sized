@@ -1,0 +1,24 @@
+.cardImage{
+    width: 100%;
+    width: 233px;
+    margin: auto;
+}
+
+.newsContainer{
+    margin-top: 30px;
+}
+
+.cardTitle{
+    text-align: left;
+    padding-top: 10px;
+}
+
+.cardDescription{
+    text-align: left;
+
+}
+
+.newsCard{
+    margin: 20px;
+    border-radius: 30px;
+}

@@ -1,0 +1,21 @@
+.navbar {
+    margin-bottom: 10px;
+  } 
+
+  .nav-link,
+  .bottom-nav-link {
+    color: #ffffff;
+  }
+
+  .iconImage{ 
+    text-align: center;
+  }
+
+.bottomNavigation{
+    background-color: #61892F;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    width: 95%;
+    margin: auto;
+    height: 8vh;
+}

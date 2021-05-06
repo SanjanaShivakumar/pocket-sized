@@ -1,0 +1,29 @@
+.articleContainer{
+  position: relative;
+  padding-bottom: 50px;
+  background-color: #222629;
+}
+
+.articleTitle{
+  color: white;
+  font-size: 25px;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.articleContent{
+  margin-top: 20px;
+  color: white;
+}
+
+.articleSwiper {
+  width: 100%;
+  height: 700px;
+}
+
+
+.articleImage {
+  width: 100%;
+  height: 300px !important;
+  object-fit: cover;
+}
